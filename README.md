@@ -1,4 +1,4 @@
-# GitHub Activity CLI[https://roadmap.sh/projects/github-user-activity]
+# [Github User Activity CLI](https://roadmap.sh/projects/github-user-activity)
 
 A simple command-line tool to fetch and display a GitHub user's recent activity.  
 
